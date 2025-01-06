@@ -1,6 +1,6 @@
 # Regolith Filters
 
-This repository contains the standard-library filters for the Regolith Addon Compiler.
+This repository contains the custom filters by Xmas for the Regolith Addon Compiler.
 
  - 🔗 [Visit the Website](https://bedrock-oss.github.io/regolith/)
  - 🔗 [Visit the Repository](https://github.com/Bedrock-OSS/regolith)

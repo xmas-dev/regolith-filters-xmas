@@ -1,2 +1,0 @@
-layeredimage==2024.3
-pillow==10.4.0
