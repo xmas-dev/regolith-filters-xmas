@@ -3,7 +3,8 @@
     {
       "runWith": "nodejs",
       "script": "./index.js",
-      "name": "Deploy files to a Exaroton server"
+      "name": "Exaroton Deploy",
+      "description": "Deploy files to a Exaroton server."
     }
   ]
 }
